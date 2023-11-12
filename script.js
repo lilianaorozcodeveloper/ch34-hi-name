@@ -1,4 +1,4 @@
 function changeName(){
-    let name = prompt("What is you name?")
+    let name = prompt("What is your name?")
     document.getElementById("name").innerHTML = name;
 }
